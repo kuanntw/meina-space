@@ -1,0 +1,4 @@
+interface:
+  display_name: "美娜内容工作室"
+  short_description: "以美娜的品牌人设创作HR、AI、组织管理与职场陪伴内容"
+  default_prompt: "请按照「美娜的陪跑时刻」人设和内容规范，协助我完成这次创作。"
